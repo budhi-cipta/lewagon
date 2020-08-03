@@ -1,0 +1,39 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    padding: 0px
+}
+
+.wrap-sectin-one{
+    padding: 0px 125px;
+}
+.atas span{
+    color: rgb(255, 72, 102);
+    background-color: aliceblue;
+}
+
+
+.bawah{
+    display: flex;
+    flex-direction: row;    
+    color:#4a4a4a;
+    
+}
+.kolom-satu p{
+    max-width: 300px;
+    color:#4a4a4a;
+}
+.kolom-dua p{
+    max-width: 300px;
+    color:#4a4a4a;
+}
+.kolom-tiga p{
+    max-width: 300px;
+    
+}
+
+.bawah img{
+    border-radius: 10px;
+}
+
+
+
